@@ -9,7 +9,7 @@
 <!-- Viewport Metatag -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-<!-- Required Stylesheets -->
+<!-- Required Stylesheets --> 
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" media="screen">
 <link rel="stylesheet" type="text/css" href="css/fonts/ptsans/stylesheet.css" media="screen">
 <link rel="stylesheet" type="text/css" href="css/fonts/icomoon/style.css" media="screen">
